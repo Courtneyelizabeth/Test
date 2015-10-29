@@ -1,4 +1,4 @@
-#!Kyle!
+#!Courtney!
 
 #Welcome to JS Workshop Day One !!
 
